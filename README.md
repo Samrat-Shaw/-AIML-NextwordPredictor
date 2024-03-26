@@ -1,5 +1,6 @@
 # -AIML-NextwordPredictor
 INTRODUCTION
+
 Next-word prediction technology is a cutting-edge advancement in natural language processing (NLP) that aims to enhance user experience and productivity across various digital platforms.In this project we are using LSTM (i.e long short -term memory model ) to train our datasets.At its core, next-word prediction relies on vast datasets of textual information to train predictive models. These models analyze patterns in language usage, including syntactic structures, semantic relationships, and contextual cues, to anticipate the most likely words to follow a given sequence of words or characters.
 
 Libraries Used
